@@ -30,7 +30,7 @@ import kotlin.time.ExperimentalTime
 class FeedActivity : BaseAppCompatActivity() {
 
     companion object {
-        const val GITHUB_URL = "https://github.com/theapache64/topcorn"
+        const val GITHUB_URL = "https://github.com/27raskhitha/top-corn"
         fun getStartIntent(context: Context): Intent {
             return Intent(context, FeedActivity::class.java).apply {
                 // add data here
